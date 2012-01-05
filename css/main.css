@@ -1,0 +1,22 @@
+#today {
+	position: fixed;
+	top:0%;
+	left:0%;
+	width: 170px;
+	height: 20px;
+	padding: 0px 10px;
+	background-color:#FFF;
+}
+#slider {
+	width: 150px;
+}
+
+#cell {
+	display: none;
+}
+#display {
+	width: 80%;
+	position: fixed;
+	top: 2%;
+	left: 20%;
+}
